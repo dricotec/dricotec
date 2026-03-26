@@ -22,7 +22,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" alt="C++">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" width="50" height="50" alt="C#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" alt="C">
-</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="50"height="50" alt="HTML">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="50" height="50" alt="CSS">
+ </div>
 
 ---
 
