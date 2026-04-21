@@ -12,7 +12,7 @@
 
 ---
 
-## ⚠ What I Know
+## ⚠ langs 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-DW_HRN0h9p0HU7tkiKE4PiuryqmVH6X9w&s" width="50" height="50" alt="Javascript">
